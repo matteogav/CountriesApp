@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_prefix">Phone number prefix: %s</string>
+    <string name="currency">Currency: %s</string>
+    <string name="close">Close</string>
+</resources>
